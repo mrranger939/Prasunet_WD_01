@@ -1,6 +1,6 @@
 # Interactive Navigation Menu
 
-This project demonstrates an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu has a fixed position and is visible on all pages.
+This project is part of my web development internship at PRASUNET Pvt. Ltd, this project demonstrates an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu has a fixed position and is visible on all pages.
 
 ## Table of Contents
 
